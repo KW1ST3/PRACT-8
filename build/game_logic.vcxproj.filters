@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\shade\OneDrive\Рабочий стол\TicTacToe_Project (1)\src\game_logic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\shade\OneDrive\Рабочий стол\TicTacToe_Project (1)\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{DAFF9F59-EAF9-3F7D-B0F9-E8EBF8264AE5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

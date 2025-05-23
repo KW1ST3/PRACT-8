@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\shade\OneDrive\Рабочий стол\TicTacToe_Project (1)\build\CMakeFiles\7d25ed460fc6f9b14ee8906d4c9766d0\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E0411304-A9ED-3F4B-A1ED-8774FE8952FF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
