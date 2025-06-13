@@ -19,6 +19,7 @@ int main() {
         int choice;
         while (!(std::cin >> choice) || (choice < 1 || choice > 4)) {
             std::cout << "Ошибка выбора. Введите число от 1 до 4: ";
+            std::cout << "Error ";
             std::cin.clear();
             std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
         }
