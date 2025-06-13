@@ -1,5 +1,6 @@
 #include <iostream>
 #include "game_logic.hpp"
+#include <limits>
 
 int main() {
     setlocale(LC_ALL, "ru_RU.UTF-8");
