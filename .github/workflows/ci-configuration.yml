@@ -2,7 +2,7 @@ name: CI_NazarenkoIllya_Z-21
 
 on:
   push:
-    branches: [ "master", "dev" ]
+    branches: [ "master", "alo" ]
   pull_request:
     branches: [ "master" ]
 
